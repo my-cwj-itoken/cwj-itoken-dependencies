@@ -28,9 +28,9 @@
         <spring-cloud.version>Finchley.RC1</spring-cloud.version>
         <zipkin.version>2.10.1</zipkin.version>
         <spring-cloud.admin.version>2.0.0</spring-cloud.admin.version>
-        <!--
+
                 <jolokia.version>1.6.2</jolokia.version>
-        -->
+
     </properties>
 
     <dependencyManagement>
@@ -59,11 +59,11 @@
                 <scope>import</scope>
             </dependency>
 
-            <!--            <dependency>
+                       <dependency>
                             <groupId>org.jolokia</groupId>
                             <artifactId>jolokia-core</artifactId>
                             <version>${jolokia.version}</version>
-                        </dependency>-->
+                        </dependency>
             <dependency>
                 <groupId>de.codecentric</groupId>
                 <artifactId>spring-boot-admin-starter-server</artifactId>
