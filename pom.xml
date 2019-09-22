@@ -15,8 +15,9 @@
     <packaging>pom</packaging>
 
     <name>cwj-itoken-dependencies</name>
-    <url>http://www.cwj.com</url>
+    <url>http://www.funtl.com</url>
     <inceptionYear>2019-Now</inceptionYear>
+
 
     <properties>
         <!-- Environment Settings -->
