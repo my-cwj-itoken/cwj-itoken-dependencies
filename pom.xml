@@ -10,7 +10,7 @@
     </parent>
 
     <groupId>com.cwj.itoken</groupId>
-    <artifactId>cwj-itoken-dependencie</artifactId>
+    <artifactId>cwj-itoken-dependencies</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
